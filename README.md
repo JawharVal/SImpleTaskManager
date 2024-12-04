@@ -1,4 +1,4 @@
-# TaskManager Console Simple code
+# Simple TaskManager Console project
 
 A new Flutter project.
 
